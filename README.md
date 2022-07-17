@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adam alias @Adobyzer.
+- 👀 I’m interested in the front end and the back end technologies.
+- 🌱 I’m currently learning HTML/CSS and javascript. 
+- 💞️ I did lots of projects on C and JAVA.
+- 📫 Reach me on IG: adam.ab02  or codepen:codepen.io/Adobyzer.
