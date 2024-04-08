@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Adam alias @Adobyzer.
-- 👀 I’m interested in the front end and the back end technologies.
-- 🌱 I’m currently learning HTML/CSS and Javascript. 
+- 👀 I'm interested in both front-end and back-end technologies, especially Web App 2.0. 
+- 🌱 I am currently learning HTML, CSS, and JavaScript, along with Tailwind CSS and React. 
